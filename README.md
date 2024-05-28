@@ -137,5 +137,6 @@ This project is licensed under the MIT License.
 ## Resources
 
 1. [AdaFruit Feather 32u4 with LoRa Radio Module (transmitter) tutorial](https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module)
-2. [Adafruit Feather 3D printed case tutorial](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather)
-3. [3rd party soil moisture sensor tutorial](https://blog.rubenwardy.com/2022/03/17/plant-monitor/)
+2. [AdaFruit RFM9X Receiver setup](https://learn.adafruit.com/adafruit-radio-bonnets)
+3. [Adafruit Feather 3D printed case tutorial](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather)
+4. [3rd party soil moisture sensor tutorial](https://blog.rubenwardy.com/2022/03/17/plant-monitor/)

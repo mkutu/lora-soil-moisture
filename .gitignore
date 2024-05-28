@@ -1,3 +1,6 @@
+# Local folders
+single_chan_pkt_fwd/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
